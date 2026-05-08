@@ -1,0 +1,23 @@
+# Environment
+.env
+__pycache__/
+*.py[cod]
+
+# ChromaDB local storage
+chroma_db/
+
+# VS Code
+.vscode/
+
+# Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
